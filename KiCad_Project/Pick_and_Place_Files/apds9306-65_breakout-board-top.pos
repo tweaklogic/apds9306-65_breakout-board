@@ -1,0 +1,11 @@
+### Footprint positions - created on 2024-08-06T19:59:53+0930 ###
+### Printed by KiCad version 8.0.4-8.0.4-0~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                            PosX       PosY       Rot  Side
+C1        1u             C_0402_1005Metric                8.5000    10.2000  -90.0000  top
+R1        10K            R_0402_1005Metric                8.5000     7.9100  -90.0000  top
+R2        10K            R_0402_1005Metric                3.5000     7.9000  -90.0000  top
+R3        10K            R_0402_1005Metric               13.3000     7.8000  -90.0000  top
+U1        APDS-9306-065  Broadcom_DFN-6_2x2mm_P0.65mm     7.6700    14.0000  180.0000  top
+## End

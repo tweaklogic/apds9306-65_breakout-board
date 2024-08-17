@@ -1,0 +1,6 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+C1,1u,C_0402_1005Metric,8.5,10.2,-90,top
+R1,10K,R_0402_1005Metric,8.5,7.91,-90,top
+R2,10K,R_0402_1005Metric,3.5,7.9,-90,top
+R3,10K,R_0402_1005Metric,13.3,7.8,-90,top
+U1,APDS-9306-065,Broadcom_DFN-6_2x2mm_P0.65mm,7.67,14,180,top
